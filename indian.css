@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+  background-color:rgb(230, 235, 239) ;
+}
+
+header{
+    height: 100px;
+    background-color: #222222;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav{
+    font-size: 3rem;
+}
+
+main{
+    margin-top: 30px;
+    height: 30rem;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('img6.jpg');
+    background-size: cover;
+}
+
+
+
+
+.maincls{
+    height: 40rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px 10px;
+  }
+
+
+  
+  .txt{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 2rem;
+    color:#222222;
+  }
+
+  a{
+    text-decoration:none;
+   
+  }
+
+  .airforce{
+    padding-left: 10px;
+  }
+
+  .navy{
+    padding-left: 10px;
+    
+  }
+  
+
+  .mq{
+    margin-top: 100px;
+    color:#222222;
+    font-size: 2rem;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
+
+
